@@ -1,1 +1,1 @@
-- [Day - 1](day-1.md)
+- [Day - 1 Notes](day-1.md)
